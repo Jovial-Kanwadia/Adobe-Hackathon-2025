@@ -16,7 +16,7 @@ Create a `.env` file or set these environment variables:
 
 ```bash
 # Adobe PDF Embed API
-ADOBE_EMBED_API_KEY=daf3f003d39241d48eaa29500f3ee516
+ADOBE_EMBED_API_KEY=<your-api-key>
 
 # LLM Configuration
 LLM_PROVIDER=gemini
