@@ -2,6 +2,9 @@
 
 A powerful and modern PDF document analysis platform that seamlessly integrates **Adobe PDF Embed API** with **AI-powered voice interaction**, **text-based chatbot**, and **web research capabilities**. Upload PDFs, navigate content using AI-extracted headings, and interact through intuitive voice or text interfaces. 🚀
 
+## Demo Video
+[![Watch the video](https://img.youtube.com/vi/7-PnV1dz-2U/hqdefault.jpg)](https://youtu.be/7-PnV1dz-2U)
+
 ## 🛠️ Quick Setup
 
 ### 📋 Prerequisites
